@@ -15,6 +15,14 @@
 - **可选修尾**：解密后 FFmpeg 无损重封装，去掉尾部加密填充，全片 0 错误
 - **绿色便携**：整个文件夹拷走即用，不写注册表、不写 `%APPDATA%`
 
+## 下载
+
+| 产物 | 位置 |
+|---|---|
+| **便携版（推荐）** | [Releases](https://github.com/DECADE0502/qmc-unlock/releases/latest) → `qmc-unlock-portable-*.zip` |
+| 源码 | `git clone https://github.com/DECADE0502/qmc-unlock.git` |
+| 单文件版 | 自行构建：`tools\build_exe.bat` |
+
 ## 快速开始
 
 ### 方式一：便携版（推荐，免安装）
