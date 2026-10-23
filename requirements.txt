@@ -1,0 +1,9 @@
+# 运行依赖
+#   frida          从 QQ 音乐客户端内存抓 QMC 流 key（只有抓 key 需要）
+#   tkinterdnd2    图形界面拖拽支持（可选，没有就退化为按钮选择）
+#   ffmpeg         可选，解密后「修尾」用（也可自己装到 PATH）
+frida>=16.0
+tkinterdnd2>=0.3
+
+# 开发/打包（可选）
+# pyinstaller>=6.0
